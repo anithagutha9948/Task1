@@ -5,12 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#252525"
+    android:background="#090de7"
     tools:context="com.example.india.task1.Main2Activity">
     <android.support.v7.widget.Toolbar
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#252525">
+        android:background="#e81717">
 
         <TextView
             android:layout_width="wrap_content"
@@ -29,8 +29,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Faculty Members"
+        android:gravity="center"
+        android:layout_marginTop="140dp"
         android:textColor="#fff"
-        android:textSize="25sp"
+        android:textSize="35sp"
         android:fontFamily="serif"
         android:textStyle="bold|italic"/>
 

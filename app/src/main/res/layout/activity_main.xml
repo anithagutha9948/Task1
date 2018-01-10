@@ -10,7 +10,7 @@
     <android.support.v7.widget.Toolbar
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#252525">
+        android:background="#1dec0e">
 
         <TextView
             android:layout_width="wrap_content"
@@ -23,7 +23,7 @@
     <view
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:background="#fff">
+        android:background="#ed0b0b">
 
     </view>
 
